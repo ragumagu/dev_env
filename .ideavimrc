@@ -1,0 +1,9 @@
+" Use the system clipboard
+set clipboard+=unnamed
+" Turn off ideavim bell.
+set visualbell
+set noerrorbells
+" Use vim-surround
+set surround
+" Relative numbering
+set relativenumber
