@@ -1,3 +1,6 @@
 " Show relative line numbers.
 set number
 set relativenumber
+
+" Turn syntax highlighting on.
+syntax on
