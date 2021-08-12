@@ -7,3 +7,4 @@ set noerrorbells
 set surround
 " Relative numbering
 set relativenumber
+set number
