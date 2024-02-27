@@ -1,0 +1,15 @@
+remap_key=CAPSLOCK
+when_alone=ESCAPE
+with_other=CTRL
+
+remap_key=SPACE
+when_alone=SPACE
+with_other=CTRL
+
+remap_key=LEFT_SHIFT
+when_alone=BACKSPACE
+with_other=LEFT_SHIFT
+
+remap_key=RIGHT_SHIFT
+when_alone=BACKSPACE
+with_other=RIGHT_SHIFT
